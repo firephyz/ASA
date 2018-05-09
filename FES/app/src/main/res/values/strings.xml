@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FES</string>
+    <string name="decay_coefficient_label">Decay coefficient:</string>
+    <string name="pulse_frequency_label">Pulse frequency:</string>
+    <string name="rise_time_label">Rise time:</string>
+    <string name="max_current_label">Max current:</string>
+    <string name="cutoff_time_label">Cutoff time:</string>
+    <string name="setup_bluetooth_button_label">Setup bluetooth</string>
+    <string name="send_button_label">Send settings</string>
+    <string name="pulse_frequency_hint">1 – 100</string>
+    <string name="rise_time_hint">1 – 500</string>
+    <string name="max_current_hint">1 – 100</string>
+    <string name="decay_coefficient_hint">1 – 1000</string>
+    <string name="pulse_frequency_unit">Hz</string>
+    <string name="rise_time_unit">μs</string>
+    <string name="max_current_unit">mA</string>
+    <string name="cutoff_time_hint">0 – 2000</string>
+    <string name="cutoff_time_unit">μs</string>
+</resources>
